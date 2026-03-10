@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Brand New Sunrise",
+  "base_artist": "ムイミ(CV:潘めぐみ)、ネネカ(CV:井口裕香)",
+  "createdAt": "2026-03-10T01:40:35.249105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Sunrise",
+      "artist": "Wet Wet Wet",
+      "has_synced": true,
+      "path": "select/01_Brand_New_Sunrise_Wet_Wet_Wet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Sunrise",
+      "artist": "Wet Wet Wet",
+      "has_synced": false,
+      "path": "select/02_Brand_New_Sunrise_Wet_Wet_Wet.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wet Wet Wet  Brand New Sunrise",
+      "artist": "Wet Wet Wet",
+      "has_synced": true,
+      "path": "select/03_Wet_Wet_Wet_Brand_New_Sunrise_Wet_Wet_Wet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Sunrise",
+      "artist": "サレン(CV.堀江由衣), アキノ(CV.松嵜麗), ムイミ(CV.潘めぐみ) & ネネカ(CV.井口裕香)",
+      "has_synced": true,
+      "path": "select/04_Brand_New_Sunrise_サレン(CV.堀江由衣),_アキノ(CV.松嵜麗),_ムイミ(CV.潘めぐみ)_&_ネネカ(CV.井口裕香).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brand New Sunrise (ネネカ ソロ・リミックス)",
+      "artist": "サレン(CV.堀江由衣), アキノ(CV.松嵜麗), ムイミ(CV.潘めぐみ) & ネネカ(CV.井口裕香)",
+      "has_synced": true,
+      "path": "select/05_Brand_New_Sunrise_(ネネカ_ソロ・リミックス)_サレン(CV.堀江由衣),_アキノ(CV.松嵜麗),_ムイミ(CV.潘めぐみ)_&_ネネカ(CV.井口裕香).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand New Sunrise (ムイミ ソロ・リミックス)",
+      "artist": "サレン(CV.堀江由衣), アキノ(CV.松嵜麗), ムイミ(CV.潘めぐみ) & ネネカ(CV.井口裕香)",
+      "has_synced": true,
+      "path": "select/06_Brand_New_Sunrise_(ムイミ_ソロ・リミックス)_サレン(CV.堀江由衣),_アキノ(CV.松嵜麗),_ムイミ(CV.潘めぐみ)_&_ネネカ(CV.井口裕香).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New Sunrise",
+      "artist": "ムイミ (CV: 潘 めぐみ), ネネカ (CV: 井口裕香)",
+      "has_synced": true,
+      "path": "select/07_Brand_New_Sunrise_ムイミ_(CV__潘_めぐみ),_ネネカ_(CV__井口裕香).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Sunrise",
+      "artist": "ムイミ(CV:潘めぐみ)、ネネカ(CV:井口裕香)",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Sunrise_ムイミ(CV_潘めぐみ)、ネネカ(CV_井口裕香).txt"
+    }
+  ]
+}
